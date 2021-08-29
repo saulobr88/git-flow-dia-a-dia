@@ -8,11 +8,11 @@ Ver os desenhos em [Git Docs Merge](https://git-scm.com/docs/git-merge)
 
 Ver os desenhos em [Git Docs Rebase](https://git-scm.com/docs/git-rebase)
 
-### Comparação e explicação
-[Introdução didática ao git rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f1wnYdLEpgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Introdução didática ao git rebase
 
-### Git How To explicação
+[![A Better Git Workflow with Rebase](https://img.youtube.com/vi/f1wnYdLEpgI/0.jpg)](https://www.youtube.com/watch?v=f1wnYdLEpgI)
+
+### Git How To - Explicação
 
 #### Merge VS Rebase
 
@@ -25,3 +25,5 @@ Não use o comando rebase …
 2. Quando o histórico exato de commits do branch é importante (porque o comando rebase reescreve o histórico de commits).
 
 Dadas as recomendações acima, eu prefiro usar rebase para branches locais e de curto prazo e merge para branches em repositórios públicos.
+
+Mais em [Git How To](https://githowto.com/pt-BR/rebasing)
