@@ -29,27 +29,28 @@ Para informações mais detalhadas, instruções e comandos git, há seções de
 
 ## Seções
 
-* [Comandos iniciais - Github](01_github-start-commands.md)
-* [Comandos Cotidianos](02_commands_everyday.md)
-* [Resets Hard & Soft](02.1_reset_hard_soft.md)
-* [Git Stash: Conhecendo e utilizando um dos comandos mais práticos para o versionamento de seu código](https://githowto.com/pt-BR/undoing_committed_changes)
-* [Rebase e Merge](03_rebase_merge.md)
-* [Utilização de Chaves e conexões SSH](04_ssh_keys.md)
-* [Setup e outras opções](05_settings.md)
+- [Comandos iniciais - Github](01_github-start-commands.md)
+- [Comandos Cotidianos](02_commands_everyday.md)
+- [Resets Hard & Soft](02.1_reset_hard_soft.md)
+- [Git Stash: Conhecendo e utilizando um dos comandos mais práticos para o versionamento de seu código](https://medium.com/wooza/git-stash-conhecendo-e-utilizando-um-dos-comandos-mais-pr%C3%A1ticos-para-o-versionamento-de-seu-c%C3%B3digo-a4dab3ac70da)
+- [Rebase e Merge](03_rebase_merge.md)
+- [Utilização de Chaves e conexões SSH](04_ssh_keys.md)
+- [Setup e outras opções](05_settings.md)
 
 ## Referências
-* [Comparing Git Workflows](https://www.codingblocks.net/podcast/comparing-git-workflows/)
 
-* [GIT WORKFLOW COMPARISONS](https://drincruz.github.io/slides/git-workflow-comparison/)
+- [Comparing Git Workflows](https://www.codingblocks.net/podcast/comparing-git-workflows/)
 
-* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [GIT WORKFLOW COMPARISONS](https://drincruz.github.io/slides/git-workflow-comparison/)
 
-* [Utilizando o fluxo Git Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
-* [Fluxo de trabalho de Gitflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Utilizando o fluxo Git Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
 
-* [Git How to](https://githowto.com/pt-BR)
+- [Fluxo de trabalho de Gitflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
 
-* [Git Documentation](https://git-scm.com/doc)
+- [Git How to](https://githowto.com/pt-BR)
 
-* [GIT: 5 comandos que todo desenvolvedor deveria conhecer](https://blog.umbler.com/br/comandos-do-git-para-desenvolvedores/)
+- [Git Documentation](https://git-scm.com/doc)
+
+- [GIT: 5 comandos que todo desenvolvedor deveria conhecer](https://blog.umbler.com/br/comandos-do-git-para-desenvolvedores/)
